@@ -18,6 +18,7 @@ We use a proprietary fine-tuned model to power the AI, sourcing data from multip
   * ```Make a zombie spwnwer``` or ```create a zombie spawner``` or ```script for a zombie spawner``` :white_check_mark:
 * ScripterAI is not capable of creating entire games by commands. For example, commands like ```create this RP game for me``` will probably not work. Instead, you must be specific about what you want, if it is a ```quest``` then you can ask the ScripterAI to create functions for that ```quest```.
 * To make multiple functions work through a single prompt, remember to separate the instructions by a `delimiter`.
+* Do not overengineer the prompt, keep it simple but specific. 
 
 ## Main Pro Tips
 

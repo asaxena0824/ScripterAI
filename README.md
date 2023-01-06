@@ -1,3 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/asaxena0824/RobloxScripterAI/blob/main/RSA_5.png?raw=true" height="120">
+    <img alt="logo" src="https://github.com/asaxena0824/RobloxScripterAI/blob/main/RSA_5.png?raw=true" height="80">
+  </picture>
+  <h1 align="center">ScripterAI</h1>
+  <p align="center">#1 Most Powerful AI tool for Roblox</p>
+</p>
+
 # RobloxScripterAI
 
 <i> This doc is not complete. Please bear with us as we work toward making it completed. </i>

@@ -13,7 +13,7 @@
 
 ## Introduction
 
-RobloxScripterAI is a low-code build tool for Roblox. Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. 
+RobloxScripterAI is an AI powered build tool for Roblox. Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. 
 
 ## How does it work?
 

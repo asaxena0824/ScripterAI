@@ -4,7 +4,7 @@
     <img alt="logo" src="https://github.com/asaxena0824/RobloxScripterAI/blob/main/RSA_5.png?raw=true" height="140">
   </picture>
   <h1 align="center">ScripterAI</h1>
-  <p align="center">AI tool for Building Roblox Games</p>
+  <p align="center">AI tool for Building Games</p>
 </p>
 
 # RobloxScripterAI

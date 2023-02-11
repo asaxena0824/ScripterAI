@@ -13,15 +13,15 @@
 
 ## Introduction
 
-RobloxScripterAI is an AI powered build tool for Roblox. Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. 
+ScripterAI is an AI powered build tool for gaming engines such as Roblox and Unreal. Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. 
 
 ## How does it work?
 
-We use a proprietary fine-tuned model to power the AI, sourcing data from multiple base training models. A feedback loop is used to augment the training size of this model every week. The long-term goal is to create the largest/most optimized model for Roblox. 
+We use a proprietary fine-tuned model to power the AI, sourcing data from multiple base training models. A feedback loop is used to augment the training size of this model every week. The long-term goal is to create the largest/most optimized model for gaming engines. 
 
 ## Best Practices
 
-* Refer to our [YouTube](https://www.youtube.com/@robloxscripterai4564) for getting a better idea of the tool usage. 
+* Refer to our [YouTube](https://www.youtube.com/@scripterai4564) for getting a better idea of the tool usage. 
 * Remember to be specific and clear in your prompt, you do not need to specify that you're requesting something for ```Roblox``` as ScripterAI is trained to work with Roblox by default.
   * ```Script for a Zombie spawner in Roblox``` ❌
   * ```Make a zombie spwnwer``` or ```create a zombie spawner``` or ```script for a zombie spawner``` :white_check_mark:

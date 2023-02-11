@@ -7,7 +7,7 @@
   <p align="center">AI tool for Generating Gaming Assets</p>
 </p>
 
-# RobloxScripterAI
+# ScripterAI
 
 <i> This doc is not complete. Please bear with us as we work toward making it completed. </i>
 

@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/asaxena0824/RobloxScripterAI/blob/main/RSA_5.png?raw=true" height="140">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/asaxena0824/ScripterAI/blob/main/RSA_6.png?raw=true" height="140">
     <img alt="logo" src="https://github.com/asaxena0824/ScripterAI/blob/main/RSA_6.png?raw=true" height="140">
   </picture>
   <h1 align="center">ScripterAI</h1>

@@ -29,7 +29,7 @@ We use a proprietary fine-tuned model to power the AI, sourcing data from multip
 - To make multiple functions work through a single prompt, remember to separate the instructions by a `delimiter`.
 - Do not overengineer the prompt, keep it simple but specific.
 
-## Main Pro Tips
+## Main [Pro Tips](markdown/protips.md)
 
 - Use tick mark to indicate that the scripts are correct. By using your feedback as training data, we aim to create the single largest fine-tuned model for Roblox.
 - You can ask ScripterAI to add comments to the code by appending 'add comments to code' to your request.

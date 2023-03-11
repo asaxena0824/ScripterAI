@@ -13,7 +13,7 @@
 
 ## Introduction
 
-ScripterAI is an AI powered build tool for gaming engines such as Roblox and Unreal. Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. 
+ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal, and Unity (free search library). Its primary purpose is to generate simple scripts using natural language prompts, but soon enough, it would support more advanced functions like 3D model generation, advanced script creation, level and story generation, RPG-oriented features like quest generation and advanced dialog systems, textures, and other game dev features. We welcome any other suggestions or ideas you may have too. We also record high-quality generations and provide them in a free searchable manner.
 
 ## How does it work?
 

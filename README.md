@@ -4,13 +4,13 @@
     <img alt="logo" src="https://github.com/asaxena0824/ScripterAI/blob/main/RSA_6.png?raw=true" height="140">
   </picture>
   <h1 align="center">ScripterAI</h1>
-  <p align="center">AI tool for Generating Code for Gaming Engines</p>
+  <p align="center">AI tool for Generating Code for Gaming Engines. <br> Search AI-Generated Code for free from GPT-4, Copilot, etc.</p>
 </p>
 
 # ScripterAI
 
 <i> This doc is not complete. Please bear with us as we work toward making it completed.</i> <br>
-For tracking the number of scripts available, please refer to the `Script Count` [section](https://github.com/asaxena0824/ScripterAI#script-count). 
+For tracking the number of scripts available in the library, please refer to the `Script Count` [section](https://github.com/asaxena0824/ScripterAI#script-count). 
 
 ## Introduction
 
@@ -66,6 +66,6 @@ ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal
 * `MongoDB` for data storage.
 * `Bootstrap` and `Angular` for frontend.
 * `CodeMirror` for the code editor. 
-
-
+<hr>
+<p align="center">Made with ❤️ in Seattle.</p>
 

@@ -66,6 +66,3 @@ ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal
 * `MongoDB` for data storage.
 * `Bootstrap` and `Angular` for frontend.
 * `CodeMirror` for the code editor. 
-<hr>
-<p align="center">Made with ❤️ in Seattle.</p>
-

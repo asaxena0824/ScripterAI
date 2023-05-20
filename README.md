@@ -10,7 +10,6 @@
 
 <div align="center">
 
-[![Prs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 [![Join Discord Server](https://img.shields.io/badge/discord%20community-join-blue)](https://discord.gg/Km4rKqWav6)
 
 </div><p>

@@ -22,7 +22,7 @@ For tracking the number of scripts available in the library, please refer to the
 
 ## Introduction
 
-ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal, and Unity. Its primary purpose is to generate simple scripts using natural language prompts. We offer free access to GPT-4, Copilot, and a code-engineered version of ChatGPT (plus). We welcome any other suggestions or ideas you may have too. We also record high-quality generations and provide them in a free searchable and easy to use library.
+ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal, Minecraft (Forge), and Unity. Its primary purpose is to generate simple scripts using natural language prompts. We offer free access to GPT-4, Copilot, and a code-engineered version of ChatGPT (plus). We welcome any other suggestions or ideas you may have too. We also record high-quality generations and provide them in a free searchable and easy to use library.
 
 ## Best Practices
 

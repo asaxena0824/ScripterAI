@@ -11,7 +11,11 @@
 <div align="center">
 
 [![Join Discord Server](https://img.shields.io/badge/discord%20community-join-blue)](https://discord.gg/Km4rKqWav6)
-
+ <a href="https://twitter.com/intent/follow?screen_name=haddockai">
+        <img src="https://img.shields.io/twitter/follow/haddockai?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+  <a href="https://www.haddock.ai/signup" alt="haddock.ai">
+        <img src="https://img.shields.io/badge/website-sign_up-blue" /></a>
 </div><p>
 
 

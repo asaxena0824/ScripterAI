@@ -13,9 +13,7 @@
 [![Join Discord Server](https://img.shields.io/badge/discord%20community-join-blue)](https://discord.gg/Km4rKqWav6)
   <a href="https://www.haddock.ai/signup" alt="haddock.ai">
         <img src="https://img.shields.io/badge/website-sign_up-blue" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=haddockai">
-        <img src="https://img.shields.io/twitter/follow/haddockai?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/FM.svg?style=social&label=@haddockai)](https://twitter.com/haddockai)
 </div><p>
 
 

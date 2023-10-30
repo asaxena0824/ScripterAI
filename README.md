@@ -50,29 +50,25 @@ ScripterAI is an AI powered build tool for gaming engines such as Roblox, Unreal
 
 **Roblox**
 
-* Total Scripts Generated: **17424**
-* Scripts Available in the Library: **4503**
-* Scripts Pending Approval (for Library): **12042**
+* Total Scripts Generated: **24213**
+* Scripts Available in the Library: **6231**
 
 **Unity**
 
-* Total Scripts Generated: **3842**
-* Scripts Available in the Library: **1849**
-* Scripts Pending Approval (for Library): **1904**
+* Total Scripts Generated: **7294**
+* Scripts Available in the Library: **3023**
 
 **Unreal**
 
-* Total Scripts Generated: **983**
-* Scripts Available in the Library: **750**
-* Scripts Pending Approval (for Library): **208**
+* Total Scripts Generated: **1450**
+* Scripts Available in the Library: **1203**
 
 **Minecraft (forge)**
 
-* Total Scripts Generated: **409**
-* Scripts Available in the Library: **230**
-* Scripts Pending Approval (for Library): **152**
+* Total Scripts Generated: **1102**
+* Scripts Available in the Library: **950**
 
-#### What does pending approval mean?
+#### Why are not all scripts available? 
 
 * Any script generated using ScripterAI or any other mode is not automatically added in the library. We moderate and sign off on each script to make it visible in the library. We're adding an average of 100 scripts per week. This can be tracked using our above Script Count.
 
